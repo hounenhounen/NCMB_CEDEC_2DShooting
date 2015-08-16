@@ -10,8 +10,12 @@ public class SaveScore : MonoBehaviour {
 		obj.Add ("name", name);//オブジェクトに名前とスコアを設定
 		obj.Add ("score", score);
 		obj.SaveAsync ((NCMBException e) => {      
-			if (e != null) {//エラー処理
-			} else {//成功時の処理
-			}                   });//この処理でサーバーに書き込む
+			if (e != null) {
+				//エラー処理
+			} else {
+				//成功時の処理
+			}                  
+		
+		});//この処理でサーバーに書き込む
 	}
 }

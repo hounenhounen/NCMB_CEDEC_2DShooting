@@ -1,11 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Player : MonoBehaviour
 {
 	// Spaceshipコンポーネント
 	Spaceship spaceship;
-	
+
+	public static List<float[]> posList = new List<float[]>();
+
 	IEnumerator Start ()
 	{
 		// Spaceshipコンポーネントを取得
@@ -61,6 +64,13 @@ public class Player : MonoBehaviour
 		
 		// 制限をかけた値をプレイヤーの位置とする
 		transform.position = pos;
+
+		//---ゴーストをつくるため、ポジションをリスト化する-----
+		float[] postion = new float[2];
+		postion [0] = transform.position.x;
+		postion [1] = transform.position.y;
+		posList.Add(postion);
+		//----------------------------------------------
 	}
 	
 	// ぶつかった瞬間に呼び出される

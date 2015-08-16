@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 874d79752071646b8b8f6be8978d6174
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ghost_0
+    21300002: Ghost_1
+    21300004: Ghost_2
+    21300006: Ghost_3
+    21300008: Ghost_4
+    21300010: Ghost_5
+    21300012: Ghost_6
+    21300014: Ghost_7
+    21300016: Ghost_8
+    21300018: Ghost_9
+    21300020: Ghost_10
+    21300022: Ghost_11
+    21300024: Ghost_12
+    21300026: Ghost_13
+    21300028: Ghost_14
+    21300030: Ghost_15
+    21300032: Ghost_16
+    21300034: Ghost_17
+    21300036: Spaceship_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spaceship_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
